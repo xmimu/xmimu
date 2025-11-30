@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=xmimu&show_icons=true&theme=dark)
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmimu&layout=compact)--!>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xmimu&layout=compact)
