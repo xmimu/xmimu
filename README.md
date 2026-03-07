@@ -1,18 +1,29 @@
-### Hi there 👋
+### Hi, I'm 梨梨 👋
 
-<!--
-**xmimu/xmimu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/Profile-README-blue?style=flat-square" alt="Profile README" />
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🐍 Contribution Snake
 
-...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xmimu/xmimu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xmimu/xmimu/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/xmimu/xmimu/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+#### 📊 GitHub Stats
+
+| GitHub Stats | Top Languages |
+| :---: | :---: |
+| <img src="https://readme-stats-fast.vercel.app/api?username=xmimu&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="100%" /> | <img src="https://readme-stats-fast.vercel.app/api/top-langs?username=xmimu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="100%" /> |
+
+---
+
+#### 👋 About Me
+
+Technical Audio Designer.
+
+---
