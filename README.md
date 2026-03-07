@@ -1,6 +1,6 @@
 ### Hi, I'm 梨梨 👋
 
-Technical Audio Designer.
+Technical Audio developer. Game audio systems, tooling, workflows, and audio middleware.
 
 ---
 
